@@ -1,0 +1,19 @@
+.sideBar{
+    background-color: #01a3a4;
+    height: 100vh;
+    ul{
+        margin: 0;
+        padding: 0;
+        background-color: #006464;
+        li{
+            list-style: none;
+            margin: 0;
+            padding: 10px;
+            border-bottom: 1px solid #fff;
+            a{
+                text-decoration: none;
+                color: #fff;
+            }
+        }
+    }
+}
